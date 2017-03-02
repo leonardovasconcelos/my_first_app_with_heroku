@@ -1,0 +1,13 @@
+current directory: /home/leonardo/projetos/Ruby-on-Rails-an-Introduction---Coursera/Ruby-on-Rails-an-Introduction---Coursera/my_first_app/vendor/bundle/ruby/2.3.0/gems/json-1.8.6/ext/json
+/usr/share/rvm/rubies/ruby-2.3.3/bin/ruby -r ./siteconf20170301-3968-1krx2nm.rb extconf.rb 
+creating Makefile
+
+current directory: /home/leonardo/projetos/Ruby-on-Rails-an-Introduction---Coursera/Ruby-on-Rails-an-Introduction---Coursera/my_first_app/vendor/bundle/ruby/2.3.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/leonardo/projetos/Ruby-on-Rails-an-Introduction---Coursera/Ruby-on-Rails-an-Introduction---Coursera/my_first_app/vendor/bundle/ruby/2.3.0/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /home/leonardo/projetos/Ruby-on-Rails-an-Introduction---Coursera/Ruby-on-Rails-an-Introduction---Coursera/my_first_app/vendor/bundle/ruby/2.3.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" install
